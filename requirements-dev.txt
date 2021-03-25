@@ -18,3 +18,4 @@ pytest-mock>=1.10.0
 tox>=3.0.0
 requests-mock>=1.4.0
 -e .
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
